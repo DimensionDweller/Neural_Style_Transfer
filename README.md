@@ -69,7 +69,8 @@ where $\(\alpha\)$ and $\(\beta\)$ are the weights that control the relative imp
 
 The results of the Neural Style Transfer model are dependent on the choice of content and style images. Here is an example of the type of results that can be obtained:
 
-(You would need to provide a link or path to an image)
+![image](https://github.com/DimensionDweller/Neural_Style_Transfer/assets/75709283/b44bc6d9-878d-4c33-a96c-ca610d2afb76)
+
 
 ## Usage
 
