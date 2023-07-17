@@ -30,7 +30,7 @@ The architecture and hyperparameters are robust, yet they offer a lot of scope f
 
 The architecture of the Neural Style Transfer model is based on the VGG19 network, a pre-trained deep convolutional neural network known for its strong feature extraction capabilities. The VGG19 architecture is used to extract the style and content features from the images. A basic VGG19 architecture can be seen below:
 
-https://www.geeksforgeeks.org/vgg-16-cnn-model/![image](https://github.com/DimensionDweller/Neural_Style_Transfer/assets/75709283/80a5db41-a5e9-463d-aef6-4abab0b2d576)
+![image](https://github.com/DimensionDweller/Neural_Style_Transfer/assets/75709283/80a5db41-a5e9-463d-aef6-4abab0b2d576)
 
 
 ![image](https://github.com/DimensionDweller/Neural_Style_Transfer/assets/75709283/f7370149-69b9-441c-891b-0d98cbebe16b)
