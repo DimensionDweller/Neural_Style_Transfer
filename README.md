@@ -10,6 +10,7 @@ This project showcases a Neural Style Transfer model built on top of the VGG19 a
 - [Results](#results)
 - [Usage](#usage)
 - [Future Work](#future-work)
+- [Sources](#sources)
 
 ## Background
 
@@ -27,7 +28,10 @@ The architecture and hyperparameters are robust, yet they offer a lot of scope f
 
 ## Model Architecture
 
-The architecture of the Neural Style Transfer model is based on the VGG19 network, a pre-trained deep convolutional neural network known for its strong feature extraction capabilities. The VGG19 architecture is used to extract the style and content features from the images.
+The architecture of the Neural Style Transfer model is based on the VGG19 network, a pre-trained deep convolutional neural network known for its strong feature extraction capabilities. The VGG19 architecture is used to extract the style and content features from the images. A basic VGG19 architecture can be seen below:
+
+![image](https://github.com/DimensionDweller/Neural_Style_Transfer/assets/75709283/f7370149-69b9-441c-891b-0d98cbebe16b)
+
 
 The main parts of the architecture are as follows:
 
@@ -109,3 +113,11 @@ Please note that this process can be quite resource-intensive, and it is recomme
 Neural Style Transfer is a fascinating application of Deep Learning that blends the worlds of art and technology. This project provides a robust and flexible framework for creating your own stylized images. In the future, it would be interesting to explore different ways to customize the style transfer process, such as applying different styles to different regions of the image.
 
 In conclusion, this project demonstrates the power of Deep Learning in creating new and unique pieces of art. It's a testament to the flexibility and creativity that Deep Learning algorithms can offer. As always, there's room for improvement and experimentation, and it's exciting to consider the possibilities of what can be created with this model.
+
+## Sources
+
+Gatys, L. A., Ecker, A. S., & Bethge, M. (2015). A Neural Algorithm of Artistic Style. Retrieved from http://arxiv.org/abs/1508.06576v2
+
+Simonyan, K., & Zisserman, A. (2015). Very Deep Convolutional Networks for Large-Scale Image Recognition. Retrieved from http://arxiv.org/abs/1409.1556v6
+
+Majumdar, S., Bhoi, A., & Jagadeesan, G. (2018). A Comprehensive Comparison between Neural Style Transfer and Universal Style Transfer. Retrieved from http://arxiv.org/abs/1806.00868v1
