@@ -33,8 +33,6 @@ The architecture of the Neural Style Transfer model is based on the VGG19 networ
 ![image](https://github.com/DimensionDweller/Neural_Style_Transfer/assets/75709283/80a5db41-a5e9-463d-aef6-4abab0b2d576)
 
 
-![image](https://github.com/DimensionDweller/Neural_Style_Transfer/assets/75709283/f7370149-69b9-441c-891b-0d98cbebe16b)
-
 
 The main parts of the architecture are as follows:
 
