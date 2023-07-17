@@ -8,7 +8,6 @@ This project showcases a Neural Style Transfer model built on top of the VGG19 a
 - [Project Description](#project-description)
 - [Model Architecture](#model-architecture)
 - [Results](#results)
-- [Usage](#usage)
 - [Future Work](#future-work)
 - [Sources](#sources)
 
@@ -78,36 +77,6 @@ The results of the Neural Style Transfer model are dependent on the choice of co
 ![image](https://github.com/DimensionDweller/Neural_Style_Transfer/assets/75709283/80c727f9-2a8b-4f6d-9fc1-65eaf857f670)
 
 
-
-## Usage
-
-Clone the repository to your local machine using the following command:
-
-```bash
-git clone https://github.com/YourUsername/NeuralStyleTransfer.git
-```
-
-Navigate to the directory of the project:
-
-```bash
-cd NeuralStyleTransfer
-```
-
-Install the necessary Python packages:
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the following command to start generating a new image:
-
-```bash
-python main.py
-```
-
-You can adjust the hyperparameters of the model by modifying the `main.py` file. You can also change the content and style images to create different results.
-
-Please note that this process can be quite resource-intensive, and it is recommended to use a machine with a GPU.
 
 ## Future Work and Conclusion
 
